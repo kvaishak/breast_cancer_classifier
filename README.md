@@ -13,7 +13,7 @@ Model is trained on a dataset which contains around 30 Feature data points grabb
 * Seaburn - for Statistical Data visualization
 
 ### Source of Training data-set
-* Sklearn Library
+**Sklearn Library** containing 569 different datasets with corresponding 30 different Feature values.
 
 ### Optimization Techniques used to improve the model
 * Data Normalization
